@@ -1,1 +1,0 @@
-# klaraluczkahanzalova.github.io

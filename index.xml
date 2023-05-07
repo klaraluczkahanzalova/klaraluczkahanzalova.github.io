@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletter on Klara&#39;s blog</title>
+    <link>https://klaraluczkahanzalova.github.io/</link>
+    <description>Recent content in Newsletter on Klara&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://klaraluczkahanzalova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the idea for a novel was born</title>
+      <link>https://klaraluczkahanzalova.github.io/post/blog/post1/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://klaraluczkahanzalova.github.io/post/blog/post1/</guid>
+      <description>Since childhood, the history of my hometown has profoundly impacted my imagination. Wandering around the streets of Warsaw, every footstep was permeated by the weight of the past, the scars left on the city during the Second World War. A city once enslaved by the German Nazi invaders, its buildings still carry the impressions, both tangible and invisible, of fervent combat. I remember developing a fascination for a symbol depicted on countless memorial plaques and walls.</description>
+    </item>
+    
+    <item>
+      <title>One post</title>
+      <link>https://klaraluczkahanzalova.github.io/post/blog/post2/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://klaraluczkahanzalova.github.io/post/blog/post2/</guid>
+      <description>Hello, how are you?</description>
+    </item>
+    
+    <item>
+      <title>One post</title>
+      <link>https://klaraluczkahanzalova.github.io/post/stories/post3/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://klaraluczkahanzalova.github.io/post/stories/post3/</guid>
+      <description>Hello there there. How is it going? Test.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://klaraluczkahanzalova.github.io/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://klaraluczkahanzalova.github.io/about-me/</guid>
+      <description>I am an emerging writer of historical fiction and a psychology graduate, currently based in Glasgow. Born to Polish parents, I grew up moving between France, Poland, and the U.S. and thanks to this developed a trilingual mindset. Across these experiences, I discovered that my heart would always be most attached to the city of Warsaw, where I spent 10 years immersed in its breathtaking history. In my first novel, Dust of Wrathful Years, I attempt to give a glimpse into Poland’s heritage, through the stories of young people fighting for the country’s freedom during the Second World War.</description>
+    </item>
+    
+    <item>
+      <title>My Book</title>
+      <link>https://klaraluczkahanzalova.github.io/my-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://klaraluczkahanzalova.github.io/my-book/</guid>
+      <description>Set in Warsaw during the Second World War, this novel follows the Polish people’s fight for freedom against Nazi Germany. The story is told through the eyes of youth in the Scouting movement, joining the Polish resistance in defying the terror imposed by German occupation.
+Buy me now: Link to Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Newsletter</title>
+      <link>https://klaraluczkahanzalova.github.io/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://klaraluczkahanzalova.github.io/newsletter/</guid>
+      <description>Sign up to newsletter.</description>
+    </item>
+    
+  </channel>
+</rss>
