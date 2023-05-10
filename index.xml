@@ -44,8 +44,7 @@
 title = &amp;lsquo;Whispers of Defiance&amp;rsquo;
 slug = &amp;lsquo;ShortStoryWar&amp;rsquo;
 image = &amp;lsquo;images/Story_illustration_train.png&amp;rsquo;
-publishDate = &amp;ldquo;2023-06-09T00:00:00&amp;rdquo;
-description = &amp;quot; A prelude to my novel, this story gives a glimpse into the daily reality of Poland in the first months of the Second World War. Amidst a world consumed by darkness, a quiet murmur of hope emerges.&amp;quot;
+publishDate = &amp;ldquo;2023-06-09T00:00:00&amp;rdquo; date = &amp;ldquo;2023-06-09T00:00:00&amp;rdquo; description = &amp;quot; A prelude to my novel, this story gives a glimpse into the daily reality of Poland in the first months of the Second World War. Amidst a world consumed by darkness, a quiet murmur of hope emerges.&amp;quot;
 disableComments = false
 tags = [&amp;lsquo;history&amp;rsquo;, &amp;lsquo;Warsaw&amp;rsquo;, &amp;lsquo;inspiration&amp;rsquo;]
 +++
