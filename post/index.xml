@@ -34,23 +34,5 @@
       <description>Hello there there. How is it going? Test.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://klaraluczkahanzalova.github.io/post/stories/whispers_story/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://klaraluczkahanzalova.github.io/post/stories/whispers_story/</guid>
-      <description>+++
-title = &amp;lsquo;Whispers of Defiance&amp;rsquo;
-slug = &amp;lsquo;ShortStoryWar&amp;rsquo;
-image = &amp;lsquo;images/Story_illustration_train.png&amp;rsquo;
-publishDate = &amp;ldquo;2023-06-09T00:00:00&amp;rdquo; date = &amp;ldquo;2023-06-09T00:00:00&amp;rdquo; description = &amp;quot; A prelude to my novel, this story gives a glimpse into the daily reality of Poland in the first months of the Second World War. Amidst a world consumed by darkness, a quiet murmur of hope emerges.&amp;quot;
-disableComments = false
-tags = [&amp;lsquo;history&amp;rsquo;, &amp;lsquo;Warsaw&amp;rsquo;, &amp;lsquo;inspiration&amp;rsquo;]
-+++
-October 1939
-The prison wagon was overcrowded with Polish soldiers.</description>
-    </item>
-    
   </channel>
 </rss>
