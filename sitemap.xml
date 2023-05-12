@@ -3,38 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://klaraluczkahanzalova.github.io/tags/history/</loc>
-    <lastmod>2022-06-09T00:00:00+01:00</lastmod>
+    <lastmod>2023-05-09T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://klaraluczkahanzalova.github.io/post/blog/post1/</loc>
-    <lastmod>2022-06-09T00:00:00+01:00</lastmod>
+    <loc>https://klaraluczkahanzalova.github.io/post/blog/birthofnovel/</loc>
+    <lastmod>2023-05-09T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/tags/inspiration/</loc>
-    <lastmod>2022-06-09T00:00:00+01:00</lastmod>
+    <lastmod>2023-05-09T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/</loc>
-    <lastmod>2022-06-09T00:00:00+01:00</lastmod>
+    <lastmod>2023-05-09T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/post/</loc>
-    <lastmod>2022-06-09T00:00:00+01:00</lastmod>
+    <lastmod>2023-05-09T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/tags/</loc>
-    <lastmod>2022-06-09T00:00:00+01:00</lastmod>
+    <lastmod>2023-05-09T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/tags/warsaw/</loc>
-    <lastmod>2022-06-09T00:00:00+01:00</lastmod>
+    <lastmod>2023-05-09T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/post/blog/post2/</loc>
     <lastmod>2019-04-18T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/post/stories/post3/</loc>
     <lastmod>2019-04-18T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/about-me/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/my-book/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.github.io/newsletter/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
