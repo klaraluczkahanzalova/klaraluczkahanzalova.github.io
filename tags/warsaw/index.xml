@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Warsaw on Author blog</title>
-    <link>https://klaraluczkahanzalova.github.io/tags/warsaw/</link>
-    <description>Recent content in Warsaw on Author blog</description>
+    <title>Warsaw on Klara&#39;s blog</title>
+    <link>/tags/warsaw/</link>
+    <description>Recent content in Warsaw on Klara&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://klaraluczkahanzalova.github.io/tags/warsaw/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0100</lastBuildDate><atom:link href="/tags/warsaw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How the idea for a novel was born</title>
-      <link>https://klaraluczkahanzalova.github.io/post/blog/birthofnovel/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0100</pubDate>
+      <link>/post/blog/post1/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://klaraluczkahanzalova.github.io/post/blog/birthofnovel/</guid>
+      <guid>/post/blog/post1/</guid>
       <description>Since childhood, the history of my hometown has profoundly impacted my imagination. Wandering around the streets of Warsaw, every footstep was permeated by the weight of the past, the scars left on the city during the Second World War. A city once enslaved by the German Nazi invaders, its buildings still carry the impressions, both tangible and invisible, of fervent combat. I remember developing a fascination for a symbol depicted on countless memorial plaques and walls.</description>
     </item>
     
     <item>
       <title>One post</title>
-      <link>https://klaraluczkahanzalova.github.io/post/stories/post3/</link>
+      <link>/post/stories/post3/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://klaraluczkahanzalova.github.io/post/stories/post3/</guid>
-      <description>Hello there there. How is it going? Test.</description>
+      <guid>/post/stories/post3/</guid>
+      <description>Hello there there</description>
     </item>
     
   </channel>

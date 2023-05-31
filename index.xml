@@ -1,47 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Newsletter on Author blog</title>
+    <title>Klara Łuczka-Hanzalová on Author blog</title>
     <link>https://klaraluczkahanzalova.github.io/</link>
-    <description>Recent content in Newsletter on Author blog</description>
+    <description>Recent content in Klara Łuczka-Hanzalová on Author blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://klaraluczkahanzalova.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How the idea for a novel was born</title>
-      <link>https://klaraluczkahanzalova.github.io/post/blog/birthofnovel/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://klaraluczkahanzalova.github.io/post/blog/birthofnovel/</guid>
-      <description>Since childhood, the history of my hometown has profoundly impacted my imagination. Wandering around the streets of Warsaw, every footstep was permeated by the weight of the past, the scars left on the city during the Second World War. A city once enslaved by the German Nazi invaders, its buildings still carry the impressions, both tangible and invisible, of fervent combat. I remember developing a fascination for a symbol depicted on countless memorial plaques and walls.</description>
-    </item>
-    
-    <item>
-      <title>One post</title>
-      <link>https://klaraluczkahanzalova.github.io/post/blog/post2/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://klaraluczkahanzalova.github.io/post/blog/post2/</guid>
-      <description>Hello, how are you? Test.
-Scouts </description>
-    </item>
-    
-    <item>
-      <title>One post</title>
-      <link>https://klaraluczkahanzalova.github.io/post/stories/post3/</link>
-      <pubDate>Thu, 18 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://klaraluczkahanzalova.github.io/post/stories/post3/</guid>
-      <description>Hello there there. How is it going? Test.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://klaraluczkahanzalova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://klaraluczkahanzalova.github.io/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://klaraluczkahanzalova.github.io/about-me/</guid>
-      <description>I am an emerging writer of historical fiction and a psychology graduate, currently based in Glasgow. Born to Polish parents, I grew up moving between France, Poland, and the U.S. and thanks to this developed a trilingual mindset. Across these experiences, I discovered that my heart would always be most attached to the city of Warsaw, where I spent 10 years immersed in its breathtaking history. In my first novel, Dust of Wrathful Years, I attempt to give a glimpse into Poland’s heritage, through the stories of young people fighting for the country’s freedom during the Second World War.</description>
+      <description>I am an emerging writer of historical fiction and a psychology graduate, currently based in Glasgow. Born to Polish parents, I grew up moving between France, Poland, and the U.S. Across these experiences, I discovered that my heart would always be most attached to the city of Warsaw, where I spent 10 years immersed in its breathtaking history. In my first novel, Dust of Wrathful Years, I attempt to give a glimpse into Poland’s heritage, through the stories of young people fighting for the country’s freedom during the Second World War.</description>
     </item>
     
     <item>
@@ -60,7 +31,7 @@ Aniela, Jadzia and Kamil were simply adolescents growing up in a promising age o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://klaraluczkahanzalova.github.io/shop/</guid>
-      <description>Shop bellow</description>
+      <description></description>
     </item>
     
   </channel>
