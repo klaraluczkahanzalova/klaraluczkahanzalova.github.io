@@ -1,36 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Klara Łuczka-Hanzalová on Author blog</title>
-    <link>https://klaraluczkahanzalova.github.io/</link>
-    <description>Recent content in Klara Łuczka-Hanzalová on Author blog</description>
+    <title>Home on Klara Łuczka-Hanzalová</title>
+    <link>https://klaraluczkahanzalova.com/</link>
+    <description>Recent content in Home on Klara Łuczka-Hanzalová</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://klaraluczkahanzalova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://klaraluczkahanzalova.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whispers of Defiance</title>
+      <link>https://klaraluczkahanzalova.com/post/stories/shortstorywar/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://klaraluczkahanzalova.com/post/stories/shortstorywar/</guid>
+      <description>October 1939
+The prison wagon was overcrowded with Polish soldiers. They were held in the dark as to their destination. Having been passed from the hands of the Russians to the Germans, they wondered which of the two evils to fear more.
+Sebastian shut his eyes, trying to catch up on the rest and sleep he had been deprived of in the previous days. Slowly, the continuous murmurs faded away, and he saw once again his hometown, Warsaw, the loving faces left behind…</description>
+    </item>
+    
     <item>
       <title>About me</title>
-      <link>https://klaraluczkahanzalova.github.io/about-me/</link>
+      <link>https://klaraluczkahanzalova.com/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://klaraluczkahanzalova.github.io/about-me/</guid>
+      <guid>https://klaraluczkahanzalova.com/about-me/</guid>
       <description>I am an emerging writer of historical fiction and a psychology graduate, currently based in Glasgow. Born to Polish parents, I grew up moving between France, Poland, and the U.S. Across these experiences, I discovered that my heart would always be most attached to the city of Warsaw, where I spent 10 years immersed in its breathtaking history. In my first novel, Dust of Wrathful Years, I attempt to give a glimpse into Poland’s heritage, through the stories of young people fighting for the country’s freedom during the Second World War.</description>
     </item>
     
     <item>
       <title>My Book</title>
-      <link>https://klaraluczkahanzalova.github.io/my-book/</link>
+      <link>https://klaraluczkahanzalova.com/my-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://klaraluczkahanzalova.github.io/my-book/</guid>
+      <guid>https://klaraluczkahanzalova.com/my-book/</guid>
       <description>1939⁣. Childhood is cut short by the outbreak of war. After a short-lived era of renaissance, Poland is once again being torn to pieces. The endless struggle for freedom returns. Children who were meant to live in a peaceful land are thrown into inescapable darkness.
 Aniela, Jadzia and Kamil were simply adolescents growing up in a promising age of renewal. Part of a generation born with their homeland’s independence, they were to discover Poland as a free and thriving country… Only to later discover death and the destruction.</description>
     </item>
     
     <item>
       <title>Shop</title>
-      <link>https://klaraluczkahanzalova.github.io/shop/</link>
+      <link>https://klaraluczkahanzalova.com/shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://klaraluczkahanzalova.github.io/shop/</guid>
+      <guid>https://klaraluczkahanzalova.com/shop/</guid>
       <description></description>
     </item>
     

@@ -2,27 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://klaraluczkahanzalova.github.io/about-me/</loc>
+    <loc>https://klaraluczkahanzalova.com/tags/fiction/</loc>
+    <lastmod>2023-06-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://klaraluczkahanzalova.github.io/categories/</loc>
+    <loc>https://klaraluczkahanzalova.com/</loc>
+    <lastmod>2023-06-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://klaraluczkahanzalova.github.io/</loc>
+    <loc>https://klaraluczkahanzalova.com/post/</loc>
+    <lastmod>2023-06-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://klaraluczkahanzalova.github.io/my-book/</loc>
+    <loc>https://klaraluczkahanzalova.com/tags/short-story/</loc>
+    <lastmod>2023-06-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://klaraluczkahanzalova.github.io/shop/</loc>
+    <loc>https://klaraluczkahanzalova.com/tags/</loc>
+    <lastmod>2023-06-01T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://klaraluczkahanzalova.github.io/tags/</loc>
+    <loc>https://klaraluczkahanzalova.com/post/stories/shortstorywar/</loc>
+    <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/tags/world-war-ii/</loc>
+    <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/about-me/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/my-book/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/shop/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
