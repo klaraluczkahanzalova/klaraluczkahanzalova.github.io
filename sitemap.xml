@@ -117,5 +117,13 @@
     <loc>https://klaraluczkahanzalova.com/shop/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/post/blog/warsaw-uprising-79-years/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/tags/warsaw-uprising/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
