@@ -8,6 +8,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.com/post/blog/warsaw-uprising-79-years/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -106,6 +107,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://klaraluczkahanzalova.com/tags/warsaw-uprising/</loc>
+    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://klaraluczkahanzalova.com/about-me/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -119,10 +125,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.com/shop/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://klaraluczkahanzalova.com/tags/warsaw-uprising/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
