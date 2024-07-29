@@ -2,37 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://klaraluczkahanzalova.com/post/blog/historical-fiction-limits/</loc>
+    <lastmod>2024-07-22T09:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://klaraluczkahanzalova.com/tags/history/</loc>
-    <lastmod>2024-07-29T09:00:00+01:00</lastmod>
+    <lastmod>2024-07-22T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.com/</loc>
-    <lastmod>2024-07-29T09:00:00+01:00</lastmod>
+    <lastmod>2024-07-22T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.com/post/</loc>
-    <lastmod>2024-07-29T09:00:00+01:00</lastmod>
+    <lastmod>2024-07-22T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.com/tags/</loc>
-    <lastmod>2024-07-29T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://klaraluczkahanzalova.com/post/blog/uprising-just-war/</loc>
-    <lastmod>2024-07-29T09:00:00+01:00</lastmod>
+    <lastmod>2024-07-22T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://klaraluczkahanzalova.com/tags/wwii/</loc>
-    <lastmod>2024-07-29T09:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://klaraluczkahanzalova.com/post/blog/historical-fiction-limits/</loc>
     <lastmod>2024-07-22T09:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -179,6 +174,10 @@
   </url><url>
     <loc>https://klaraluczkahanzalova.com/tags/world-war-ii/</loc>
     <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://klaraluczkahanzalova.com/post/blog/just_war/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
